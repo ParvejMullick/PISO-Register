@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/Mini Project/FourBitPISORegister/Multiplexer.xst" -ofn "D:/Mini Project/FourBitPISORegister/Multiplexer.syr" 

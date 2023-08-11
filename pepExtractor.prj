@@ -1,0 +1,3 @@
+work	"D_flipFlop.vhd"
+work	"Multiplexer.vhd"
+work	"fourBit_PISO_register.vhd"

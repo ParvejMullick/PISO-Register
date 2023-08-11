@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/Mini Project/FourBitPISORegister/fourBit_PISO_register.xst" -ofn "D:/Mini Project/FourBitPISORegister/fourBit_PISO_register.syr" 
+xst -intstyle ise -ifn "D:/Mini Project/FourBitPISORegister/fourBit_PISO_register.xst" -ofn "D:/Mini Project/FourBitPISORegister/fourBit_PISO_register.syr" 

@@ -1,0 +1,4 @@
+vhdl work "Multiplexer.vhd"
+vhdl work "D_flipFlop.vhd"
+vhdl work "fourBit_PISO_register.vhd"
+vhdl work "testBench_pisoRegister.vhd"

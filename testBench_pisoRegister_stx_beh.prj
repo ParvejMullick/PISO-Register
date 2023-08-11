@@ -1,0 +1,4 @@
+vhdl isim_temp "Multiplexer.vhd"
+vhdl isim_temp "D_flipFlop.vhd"
+vhdl isim_temp "fourBit_PISO_register.vhd"
+vhdl isim_temp "testBench_pisoRegister.vhd"
